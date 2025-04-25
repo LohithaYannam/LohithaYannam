@@ -6,9 +6,7 @@
 ### 🧮 Profile View Counter
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=LohithaYannam&icon=0&color=0" alt="Profile View Count"/>
-  </a>
+<img src="https://count.getloli.com/get/@LohithaYannam?theme=rule34" />
 </p>
 
 ---
